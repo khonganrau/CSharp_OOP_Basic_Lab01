@@ -504,24 +504,49 @@ Entire Code:
 #
 
 # _**Working with Inheritance: Lab**_
-### **Part I: Inheritance**
-#### 1. Single Inheritance
-##### Problem:
+## **Part I: Inheritance**
+### 1. Single Inheritance
+#### Problem:
 Create class Animal and Dog. Animal has public method Eat() that prints: "eating...". Dog has public method Bark() that prints: "braking...". And, Dog inherits from Animal. It means Dog can use method that it doesn't have (Eat()) but inherits from Animal. 
-##### Solution:
+#### Solution:
 ![Imgur](https://i.imgur.com/4XuoAML.png)
-#### 2. Multiple Inheritance
-##### Problem:
+### 2. Multiple Inheritance
+#### Problem:
 Create class Puppy. It has public method Weep() that prints: "weeping..." And, Puupy inherits from Dod but Dog inherits from Animal. It means Puppy can use method that it doesn't have (Eat(), Bark()) but inherits from Dog and Animal.
-##### Solution:
+#### Solution:
 ![Imgur](https://i.imgur.com/d9agd8w.png)
-#### 3. Hierarchical Inheritance
-##### Problem:
+### 3. Hierarchical Inheritance
+#### Problem:
 Create class Cat. It has public method Meow() that prints: "meowing..." And, Cat inherits from Animal. It means Cat can use method that it doesn't have (Eat()) but inherits from Animal.
-##### Solution:
+#### Solution:
 ![Imgur](https://i.imgur.com/g6q1qVZ.png)
 #### Program Solution:
 ![Imgur](https://i.imgur.com/cEbgmnZ.png)
 #### Result:
-![Imgur](https://i.imgur.com/eNnAmI3.png)
+![Imgur](https://i.imgur.com/eNnAmI3.png)  
+
+## **PART 2**
+### _**Reusing Classes**_
+#### **Random List**
+> _**NOTE:**_ You need a public _**StartuP**_ class with the namescape _**CustomRandomList**_.  
+Create a _**RandomList**_ class that has all the functionality of _**List`<string>`**_.  
+An additional function that _**return**_ and _**remove**_ a random element from the list.  
+* Public method: _**RandomString(): string**_.
+
+##### **Solution**
+![Imgur](https://i.imgur.com/tPaIg31.png)  
+
+### **Stack Od Strings**
+>_**NOTE:**_ You need a public _**StartUp**_ with the namescape _**CustomStack**_.  
+Create a class _**StackOfString**_ which can store only strings has the following functionality:
+* Private field: _** data: List`<string>`**_
+* Public method: _**Push(string item): void**_
+* Public method: _**Pop(): string**_
+* Public method: _**Peek(): string**_
+* Public method: _**IsEmpty(): bool**_
+Use composition or delegation in order to have a field in which to store the stcak's data.  
+
+#### **Solution**  
+![Imgur](https://i.imgur.com/rqBeYiC.png)  
+  
 
