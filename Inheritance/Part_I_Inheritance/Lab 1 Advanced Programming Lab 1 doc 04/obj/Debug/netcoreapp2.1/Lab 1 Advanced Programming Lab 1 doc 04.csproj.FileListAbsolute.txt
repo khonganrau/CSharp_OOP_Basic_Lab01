@@ -1,0 +1,11 @@
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.deps.json
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.runtimeconfig.json
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.runtimeconfig.dev.json
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.dll
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.pdb
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.csprojAssemblyReference.cache
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.csproj.CoreCompileInputs.cache
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.AssemblyInfoInputs.cache
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.AssemblyInfo.cs
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.dll
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Lab 1 doc 04\Lab 1 Advanced Programming Lab 1 doc 04\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Lab 1 doc 04.pdb
