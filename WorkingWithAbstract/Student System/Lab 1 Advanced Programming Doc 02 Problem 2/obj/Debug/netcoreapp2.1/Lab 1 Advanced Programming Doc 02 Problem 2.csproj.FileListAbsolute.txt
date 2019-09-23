@@ -1,0 +1,11 @@
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.deps.json
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.runtimeconfig.json
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.runtimeconfig.dev.json
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.dll
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\bin\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.pdb
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.csprojAssemblyReference.cache
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.csproj.CoreCompileInputs.cache
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.AssemblyInfoInputs.cache
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.AssemblyInfo.cs
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.dll
+C:\Users\vieth\source\repos\Lab 1 Advanced Programming Doc 02 Problem 2\Lab 1 Advanced Programming Doc 02 Problem 2\obj\Debug\netcoreapp2.1\Lab 1 Advanced Programming Doc 02 Problem 2.pdb
