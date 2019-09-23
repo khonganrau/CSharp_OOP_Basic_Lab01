@@ -2,7 +2,7 @@
 ## **DEFINING CLASSES**
 ### **Problem 1**  
 #### _**BankAccount**_
-> _**NOTE:**_ Createing a **StartUp**_ class with the namescape _**BankAccount**_.  
+> _**NOTE:**_ Createing a _**StartUp**_ class with the namescape _**BankAccount**_.  
 
 Create a _**class**_ named _**BankAccount**_.  
 The class should have _**private fields** for:
