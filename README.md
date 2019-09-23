@@ -403,3 +403,125 @@ Ech of them need to have:
 * Within _**Circle**_ that contain radius.  
   ![Imgur](https://i.imgur.com/3tQnEZW.png)
    
+   #
+
+   # **CSharp OOP Basic Working with Abstraction Lab**
+## _**Working with Abstraction: Lab**_
+### **Problem 1: Rhombus of Starts**
+Create a program that reads a **positive integer n** as input and prints on the console a **thombus** with size **n**:
+
+_For example:_ 
+![Imgur](https://i.imgur.com/lbZvWSt.png)  
+
+### **Solution:**
+First, declare 3 variables as integer data type and than print screen to ask user input the integer number they want:
+![Imgur](https://i.imgur.com/uRDkRwJ.png)
+
+After that, turn to the main part of the program. In this kind of problem, I use 2 for loops. 1 to draw " " and the other to draw "*". 
+![Imgur](https://i.imgur.com/uJiwitN.png)
+![Imgur](https://i.imgur.com/mhmww0d.png)
+I just need to draw a half of a rhombus (trigangle) and then use another for loop to draw the left part. Of course, the conditions of each for loop are different. Here is the document code:
+![Imgur](https://i.imgur.com/dHEHv7c.png)
+
+Overall, here is the entire program:
+![Imgur](https://i.imgur.com/oBIk8Po.png)
+
+### **Result:**
+![Imgur](https://i.imgur.com/8hIa3OY.png)  
+
+#
+
+### **Problem 2: Student System**
+Create a student system that require request: 
+#### _1. Input to the console a sentence and the program split into words and follow each word as command._
+#### _2. Input the value that typed from keyboard._
+#### _3. Show input value._ 
+
+### **Example:**
+![Imgur](https://i.imgur.com/P17GHDV.png)
+### **Solution:**
+>As this program, I haven't finnished it yet because there are some bugs that I have to fixed. So, basicaly, the program can not show an exact output as the problem demand.
+
+You can see that user can input a hole sentence into program. The sentence contains command word and value as well. I will use a method call **Split()** to slit words and turn it into command and value.
+![Imgur](https://i.imgur.com/Shy7o8x.png)
+
+With the first word in sentence, it will be a command. So, I use **Switch case** to define with kind of command in the program. In addition, there are 3 main command: _Create, Show, and Exit._
+![Imgur](https://i.imgur.com/WD9WgKz.png)
+
+I used **Dictionary<>** to store value because it can save a lot of elements than **List<>** and this program is suitable with **Dictionary<>** cause its values are more than 2 element.
+>Dictionary<> index: Dictionary<Key, Value>. The Value in this case was changed to a ValueStudent method from class ValueStudent. Here are my Dictionary<>:  `Dictionary<string, ValueStudent> myDict = new Dictionary<string, ValueStudent>();`. The key value of this Dictionary<> myDict is the name of student. That's why its data type was string. The value data types of Dictionary<> myDict are **byte** (for age) and **double** (for grade).
+
+![Imgur](https://i.imgur.com/37Usbdg.png)
+
+
+Here is the entire program:
+
+![Imgur](https://i.imgur.com/g3oAWjl.png)
+
+To input value from a sentence entered from console, I split each word of that sentence and choose what the values are and put that value to a variable.
+![Imgur](https://i.imgur.com/onDW8LJ.png)
+### **Result**:
+![Imgur](https://i.imgur.com/MGjRztK.png)
+> The result is not exact like what problem demand. At show function, It must be show the information of student Hoang. This bug will be fixed soon.
+
+#
+
+### **Problem 3: Hotel Reservation**
+Input command into system and output is the price for hotel reservation. The price depends on price per day multiple number of days multiple the season price and minus discout at total.
+
+### **Out put:**
+![Imgur](https://i.imgur.com/4D37N5D.png)
+
+### **Solution:**
+
+> Final Price = Price per day * Number of days * Season price - Discount(at total).
+
+The season can be tranfered to price like this:  
+* Autumn: multiple 1 
+* Spring: multiple 2 
+* Winter: multiple 3 
+* Summer: multiple 4 
+> Basic price = Price per day * Number of days * Season Price
+
+![Imgur](https://i.imgur.com/I90tatX.png)
+
+The Discount can be transferd to price like this:
+* Multiple 20% with Basic Price as VIP clients
+* Multiple 10% with Basic Price as Second Vist
+* None if there is no discount
+
+![Imgur](https://i.imgur.com/Rr5tn0O.png)
+
+Final Price = Basic Price - Discount
+
+Entire Code:
+
+![Imgur](https://i.imgur.com/CoPveye.png)
+
+### **Result:**
+![Imgur](https://i.imgur.com/qDYq6Xa.png)  
+
+#
+
+# _**Working with Inheritance: Lab**_
+### **Part I: Inheritance**
+#### 1. Single Inheritance
+##### Problem:
+Create class Animal and Dog. Animal has public method Eat() that prints: "eating...". Dog has public method Bark() that prints: "braking...". And, Dog inherits from Animal. It means Dog can use method that it doesn't have (Eat()) but inherits from Animal. 
+##### Solution:
+![Imgur](https://i.imgur.com/4XuoAML.png)
+#### 2. Multiple Inheritance
+##### Problem:
+Create class Puppy. It has public method Weep() that prints: "weeping..." And, Puupy inherits from Dod but Dog inherits from Animal. It means Puppy can use method that it doesn't have (Eat(), Bark()) but inherits from Dog and Animal.
+##### Solution:
+![Imgur](https://i.imgur.com/d9agd8w.png)
+#### 3. Hierarchical Inheritance
+##### Problem:
+Create class Cat. It has public method Meow() that prints: "meowing..." And, Cat inherits from Animal. It means Cat can use method that it doesn't have (Eat()) but inherits from Animal.
+##### Solution:
+![Imgur](https://i.imgur.com/g6q1qVZ.png)
+#### Program Solution:
+![Imgur](https://i.imgur.com/cEbgmnZ.png)
+#### Result:
+![Imgur](https://i.imgur.com/eNnAmI3.png)
+
